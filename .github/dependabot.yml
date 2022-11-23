@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "daily"
       time: "09:00"
-      timezone: "Asia/Jakarta"
+      timezone: "Asia/Seoul"
